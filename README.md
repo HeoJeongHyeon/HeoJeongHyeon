@@ -41,14 +41,14 @@
 </div>
 
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<!-- <h3 align="center">📫 Contact 📫</h3> --> 
+<!-- <div align="center"> --> 
 <!--   <a href="https://velog.io/@auspiciousjh"> -->
 <!--     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp -->
 <!--   </a> -->
-  <a href="mailto:auspiciousjh@hansung.ac.kr">
+<!--   <a href="mailto:auspiciousjh@hansung.ac.kr">
     <img
       src="https://img.shields.io/badge/auspiciousjh@hansung.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-</div>
+</div> -->
 
